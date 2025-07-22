@@ -1,0 +1,31 @@
+# books.py
+
+new_testament = {
+    "Mateo": 28,
+    "Marcos": 16,
+    "Lucas": 24,
+    "Juan": 21,
+    "Gawa": 28,
+    "Roma": 16,
+    "I Corinto": 16,
+    "II Corinto": 13,
+    "Galacia": 6,
+    "Efeso": 6,
+    "Filipos": 4,
+    "Colosas": 4,
+    "I Tesalonica": 5,
+    "II Tesalonica": 3,
+    "I Timoteo": 6,
+    "II Timoteo": 4,
+    "Tito": 3,
+    "Filemon": 1,
+    "Hebreo": 13,
+    "Santiago": 5,
+    "I Pedro": 5,
+    "II Pedro": 3,
+    "I Juan": 5,
+    "II Juan": 1,
+    "III Juan": 1,
+    "Judas": 1,
+    "Apocalipsis": 22
+}
